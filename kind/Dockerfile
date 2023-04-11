@@ -1,1 +1,1 @@
-FROM kindest/node:v1.26.3
+FROM kindest/node:v1.26.3@sha256:61b92f38dff6ccc29969e7aa154d34e38b89443af1a2c14e6cfbd2df6419c66f
