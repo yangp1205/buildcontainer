@@ -1,1 +1,1 @@
-FROM prom/node-exporter:latest
+FROM prom/node-exporter
