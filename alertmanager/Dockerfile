@@ -1,1 +1,1 @@
-FROM prom/prometheus
+FROM prom/alertmanager
